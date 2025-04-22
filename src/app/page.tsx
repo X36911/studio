@@ -28,7 +28,7 @@ export default function Home() {
           </p>
           <Button
             onClick={handleGetStartedClick}
-            className="w-full bg-primary text-primary-foreground hover:bg-primary/80 rounded-full shadow-md transition-colors duration-300"
+            className="w-full rounded-full shadow-md transition-colors duration-300"
           >
             Get Started
           </Button>
